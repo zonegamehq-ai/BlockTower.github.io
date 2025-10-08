@@ -1,1 +1,3 @@
 # BlockTower.github.io
+
+google.com, pub-1605578846158887, DIRECT, f08c47fec0942fa0
